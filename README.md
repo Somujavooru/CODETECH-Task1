@@ -8,7 +8,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT08DS9232
 Domain:Java Programming
 Duration: 15th November 2024
-Mentor: (Specify the mentor's name here)
+Mentor: Muzamil
 
 Overview of the Project
 Project: Java-Based Application Development
